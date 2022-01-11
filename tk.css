@@ -1,0 +1,34 @@
+body {
+  font-family: "Montserrat", sans-serif;
+}
+h1,
+h2,
+h3,
+h4 {
+  font-weight: 1000;
+  text-align: center;
+}
+
+h3,
+h4 {
+  font-size: 12px;
+}
+img {
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.card {
+  color: aliceblue;
+  background: radial-gradient(
+    circle at 10% 20%,
+    rgb(221, 49, 49) 0%,
+    rgb(119, 0, 0) 90%
+  );
+  margin: auto;
+}
+
+.row {
+  text-align: center;
+  font-size: 16px;
+}
