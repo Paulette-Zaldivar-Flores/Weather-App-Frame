@@ -7,7 +7,6 @@
 * [Technologies Used](#technologies-used)
 * [Screenshots](#screenshots)
 * [Project Status](#project-status)
-* [Acknowledgements](#acknowledgements)
 * [Contact](#contact)
 
 
@@ -42,13 +41,6 @@
 ## Project Status
 <ul>
 <li>Project is: Completed</li></ul>
-
-
-
-
-## Acknowledgements
- 
-  <ul><li>This README.md was inspired by <a href ="https://github.com/ritaly"> Ritaly</a></li></ul>
 
 
 ## Contact
